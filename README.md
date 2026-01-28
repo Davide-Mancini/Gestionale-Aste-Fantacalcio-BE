@@ -1,2 +1,2 @@
 # CapstoneBE
-
+![preview](preview.png)
