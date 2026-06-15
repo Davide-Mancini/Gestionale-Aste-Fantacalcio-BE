@@ -1,2 +1,2 @@
-# CapstoneBE
+# Capstone Back-End
 ![preview](preview.png)
